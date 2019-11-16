@@ -1,5 +1,3 @@
-package com.ugpal.app.widget
-
 import androidx.recyclerview.widget.RecyclerView
 
 class ClassifyLayoutManager(private val columns: Int, private val rows: Int) : RecyclerView.LayoutManager() {
